@@ -15,10 +15,11 @@ from __future__ import absolute_import
 import copy
 import logging
 import multiprocessing
+import os
 import sys
-import urllib3
 
 import six
+import urllib3
 from six.moves import http_client as httplib
 
 
@@ -43,7 +44,7 @@ class Configuration(six.with_metaclass(TypeWithDefault, object)):
     Do not edit the class manually.
     """
 
-    def __init__(self):
+    def __init__(self, api_key='', api_key_prefix='Bearer'):
         """Constructor"""
         # Default Base url
         self.host = "https://api.clerk.com/v1"
@@ -52,9 +53,9 @@ class Configuration(six.with_metaclass(TypeWithDefault, object)):
 
         # Authentication Settings
         # dict to store API key(s)
-        self.api_key = {}
+        self.api_key = os.environ.get('CLERK_SECRET_KEY', api_key)
         # dict to store API prefix (e.g. Bearer)
-        self.api_key_prefix = {}
+        self.api_key_prefix = api_key_prefix
         # function to refresh API key if expired
         self.refresh_api_key_hook = None
         # Username for HTTP basic authentication
@@ -232,7 +233,7 @@ class Configuration(six.with_metaclass(TypeWithDefault, object)):
         :return: The Auth Settings information dict.
         """
         return {
-        }
+            'bearerAuth': {'in': 'header', 'value': f"{self.api_key_prefix} {self.api_key}", 'key': 'Authorization'}}
 
     def to_debug_report(self):
         """Gets the essential information for debugging.
