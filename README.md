@@ -49,15 +49,18 @@ Please follow the [installation procedure](#installation--usage) and then run th
 
 ```python
 from __future__ import print_function
-import time
-import clerk_client
-from clerk_client.rest import ApiException
+
 from pprint import pprint
 
+import clerk_client
+from clerk_client.configuration import Configuration
+from clerk_client.rest import ApiException
+
+configuration = Configuration()
 
 # create an instance of the API class
 api_instance = clerk_client.ActorTokensApi(clerk_client.ApiClient(configuration))
-body = clerk_client.ActorTokensBody() # ActorTokensBody |  (optional)
+body = clerk_client.ActorTokensBody()  # ActorTokensBody |  (optional)
 
 try:
     # Create actor token
@@ -66,10 +69,9 @@ try:
 except ApiException as e:
     print("Exception when calling ActorTokensApi->create_actor_token: %s\n" % e)
 
-
 # create an instance of the API class
 api_instance = clerk_client.ActorTokensApi(clerk_client.ApiClient(configuration))
-actor_token_id = 'actor_token_id_example' # str | The ID of the actor token to be revoked.
+actor_token_id = 'actor_token_id_example'  # str | The ID of the actor token to be revoked.
 
 try:
     # Revoke actor token
