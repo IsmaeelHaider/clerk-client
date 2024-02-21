@@ -5,7 +5,7 @@
 
 git_user_id=ismaeelhaider
 git_repo_id=clerk-client
-release_note=$3
+release_note=changes
 
 if [ "$git_user_id" = "" ]; then
     git_user_id="GIT_USER_ID"
