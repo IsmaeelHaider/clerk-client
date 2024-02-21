@@ -31,7 +31,7 @@ class TestProxyCheck(unittest.TestCase):
     def testProxyCheck(self):
         """Test ProxyCheck"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.proxy_check.ProxyCheck()  # noqa: E501
+        # model = clerk_client.models.proxy_check.ProxyCheck()  # noqa: E501
         pass
 
 

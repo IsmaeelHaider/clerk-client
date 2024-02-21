@@ -31,7 +31,7 @@ class TestSignUp(unittest.TestCase):
     def testSignUp(self):
         """Test SignUp"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.sign_up.SignUp()  # noqa: E501
+        # model = clerk_client.models.sign_up.SignUp()  # noqa: E501
         pass
 
 

@@ -31,7 +31,7 @@ class TestIdentificationLink(unittest.TestCase):
     def testIdentificationLink(self):
         """Test IdentificationLink"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.identification_link.IdentificationLink()  # noqa: E501
+        # model = clerk_client.models.identification_link.IdentificationLink()  # noqa: E501
         pass
 
 

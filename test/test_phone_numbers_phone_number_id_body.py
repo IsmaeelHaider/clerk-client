@@ -31,7 +31,7 @@ class TestPhoneNumbersPhoneNumberIdBody(unittest.TestCase):
     def testPhoneNumbersPhoneNumberIdBody(self):
         """Test PhoneNumbersPhoneNumberIdBody"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.phone_numbers_phone_number_id_body.PhoneNumbersPhoneNumberIdBody()  # noqa: E501
+        # model = clerk_client.models.phone_numbers_phone_number_id_body.PhoneNumbersPhoneNumberIdBody()  # noqa: E501
         pass
 
 

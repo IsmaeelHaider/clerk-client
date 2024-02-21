@@ -31,7 +31,7 @@ class TestInvitation(unittest.TestCase):
     def testInvitation(self):
         """Test Invitation"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.invitation.Invitation()  # noqa: E501
+        # model = clerk_client.models.invitation.Invitation()  # noqa: E501
         pass
 
 

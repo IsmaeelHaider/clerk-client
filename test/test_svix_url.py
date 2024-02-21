@@ -31,7 +31,7 @@ class TestSvixURL(unittest.TestCase):
     def testSvixURL(self):
         """Test SvixURL"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.svix_url.SvixURL()  # noqa: E501
+        # model = clerk_client.models.svix_url.SvixURL()  # noqa: E501
         pass
 
 

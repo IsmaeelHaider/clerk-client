@@ -31,7 +31,7 @@ class TestOrganizationMembershipPublicUserData(unittest.TestCase):
     def testOrganizationMembershipPublicUserData(self):
         """Test OrganizationMembershipPublicUserData"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.organization_membership_public_user_data.OrganizationMembershipPublicUserData()  # noqa: E501
+        # model = clerk_client.models.organization_membership_public_user_data.OrganizationMembershipPublicUserData()  # noqa: E501
         pass
 
 

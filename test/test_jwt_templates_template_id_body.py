@@ -31,7 +31,7 @@ class TestJwtTemplatesTemplateIdBody(unittest.TestCase):
     def testJwtTemplatesTemplateIdBody(self):
         """Test JwtTemplatesTemplateIdBody"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.jwt_templates_template_id_body.JwtTemplatesTemplateIdBody()  # noqa: E501
+        # model = clerk_client.models.jwt_templates_template_id_body.JwtTemplatesTemplateIdBody()  # noqa: E501
         pass
 
 

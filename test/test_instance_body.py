@@ -31,7 +31,7 @@ class TestInstanceBody(unittest.TestCase):
     def testInstanceBody(self):
         """Test InstanceBody"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.instance_body.InstanceBody()  # noqa: E501
+        # model = clerk_client.models.instance_body.InstanceBody()  # noqa: E501
         pass
 
 

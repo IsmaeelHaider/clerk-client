@@ -31,7 +31,7 @@ class TestInstanceOrganizationSettingsBody(unittest.TestCase):
     def testInstanceOrganizationSettingsBody(self):
         """Test InstanceOrganizationSettingsBody"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.instance_organization_settings_body.InstanceOrganizationSettingsBody()  # noqa: E501
+        # model = clerk_client.models.instance_organization_settings_body.InstanceOrganizationSettingsBody()  # noqa: E501
         pass
 
 

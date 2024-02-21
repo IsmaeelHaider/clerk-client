@@ -31,7 +31,7 @@ class TestOauthApplicationsOauthApplicationIdBody(unittest.TestCase):
     def testOauthApplicationsOauthApplicationIdBody(self):
         """Test OauthApplicationsOauthApplicationIdBody"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.oauth_applications_oauth_application_id_body.OauthApplicationsOauthApplicationIdBody()  # noqa: E501
+        # model = clerk_client.models.oauth_applications_oauth_application_id_body.OauthApplicationsOauthApplicationIdBody()  # noqa: E501
         pass
 
 

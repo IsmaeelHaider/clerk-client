@@ -31,7 +31,7 @@ class TestOTP(unittest.TestCase):
     def testOTP(self):
         """Test OTP"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.otp.OTP()  # noqa: E501
+        # model = clerk_client.models.otp.OTP()  # noqa: E501
         pass
 
 

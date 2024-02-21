@@ -31,7 +31,7 @@ class TestCNameTarget(unittest.TestCase):
     def testCNameTarget(self):
         """Test CNameTarget"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.c_name_target.CNameTarget()  # noqa: E501
+        # model = clerk_client.models.c_name_target.CNameTarget()  # noqa: E501
         pass
 
 

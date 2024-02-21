@@ -31,7 +31,7 @@ class TestBetaFeaturesDomainBody(unittest.TestCase):
     def testBetaFeaturesDomainBody(self):
         """Test BetaFeaturesDomainBody"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.beta_features_domain_body.BetaFeaturesDomainBody()  # noqa: E501
+        # model = clerk_client.models.beta_features_domain_body.BetaFeaturesDomainBody()  # noqa: E501
         pass
 
 

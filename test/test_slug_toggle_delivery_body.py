@@ -31,7 +31,7 @@ class TestSlugToggleDeliveryBody(unittest.TestCase):
     def testSlugToggleDeliveryBody(self):
         """Test SlugToggleDeliveryBody"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.slug_toggle_delivery_body.SlugToggleDeliveryBody()  # noqa: E501
+        # model = clerk_client.models.slug_toggle_delivery_body.SlugToggleDeliveryBody()  # noqa: E501
         pass
 
 

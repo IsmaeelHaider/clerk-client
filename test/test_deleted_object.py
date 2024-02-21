@@ -31,7 +31,7 @@ class TestDeletedObject(unittest.TestCase):
     def testDeletedObject(self):
         """Test DeletedObject"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.deleted_object.DeletedObject()  # noqa: E501
+        # model = clerk_client.models.deleted_object.DeletedObject()  # noqa: E501
         pass
 
 

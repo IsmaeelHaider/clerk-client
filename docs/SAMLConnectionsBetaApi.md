@@ -1,4 +1,4 @@
-# swagger_client.SAMLConnectionsBetaApi
+# clerk_client.SAMLConnectionsBetaApi
 
 All URIs are relative to *https://api.clerk.com/v1*
 

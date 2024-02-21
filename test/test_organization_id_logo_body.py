@@ -31,7 +31,7 @@ class TestOrganizationIdLogoBody(unittest.TestCase):
     def testOrganizationIdLogoBody(self):
         """Test OrganizationIdLogoBody"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.organization_id_logo_body.OrganizationIdLogoBody()  # noqa: E501
+        # model = clerk_client.models.organization_id_logo_body.OrganizationIdLogoBody()  # noqa: E501
         pass
 
 

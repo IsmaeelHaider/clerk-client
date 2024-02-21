@@ -31,7 +31,7 @@ class TestSamlConnectionssamlConnectionIdAttributeMapping(unittest.TestCase):
     def testSamlConnectionssamlConnectionIdAttributeMapping(self):
         """Test SamlConnectionssamlConnectionIdAttributeMapping"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.saml_connectionssaml_connection_id_attribute_mapping.SamlConnectionssamlConnectionIdAttributeMapping()  # noqa: E501
+        # model = clerk_client.models.saml_connectionssaml_connection_id_attribute_mapping.SamlConnectionssamlConnectionIdAttributeMapping()  # noqa: E501
         pass
 
 

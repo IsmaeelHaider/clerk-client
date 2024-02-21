@@ -1,4 +1,4 @@
-# swagger_client.PhoneNumbersApi
+# clerk_client.PhoneNumbersApi
 
 All URIs are relative to *https://api.clerk.com/v1*
 

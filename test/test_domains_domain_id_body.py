@@ -31,7 +31,7 @@ class TestDomainsDomainIdBody(unittest.TestCase):
     def testDomainsDomainIdBody(self):
         """Test DomainsDomainIdBody"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.domains_domain_id_body.DomainsDomainIdBody()  # noqa: E501
+        # model = clerk_client.models.domains_domain_id_body.DomainsDomainIdBody()  # noqa: E501
         pass
 
 

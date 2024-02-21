@@ -31,7 +31,7 @@ class TestSlugPreviewBody(unittest.TestCase):
     def testSlugPreviewBody(self):
         """Test SlugPreviewBody"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.slug_preview_body.SlugPreviewBody()  # noqa: E501
+        # model = clerk_client.models.slug_preview_body.SlugPreviewBody()  # noqa: E501
         pass
 
 

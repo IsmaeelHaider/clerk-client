@@ -31,7 +31,7 @@ class TestOauth(unittest.TestCase):
     def testOauth(self):
         """Test Oauth"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.oauth.Oauth()  # noqa: E501
+        # model = clerk_client.models.oauth.Oauth()  # noqa: E501
         pass
 
 

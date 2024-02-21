@@ -31,7 +31,7 @@ class TestTemplateTypeSlugBody(unittest.TestCase):
     def testTemplateTypeSlugBody(self):
         """Test TemplateTypeSlugBody"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.template_type_slug_body.TemplateTypeSlugBody()  # noqa: E501
+        # model = clerk_client.models.template_type_slug_body.TemplateTypeSlugBody()  # noqa: E501
         pass
 
 

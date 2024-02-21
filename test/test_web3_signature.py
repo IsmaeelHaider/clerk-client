@@ -31,7 +31,7 @@ class TestWeb3Signature(unittest.TestCase):
     def testWeb3Signature(self):
         """Test Web3Signature"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.web3_signature.Web3Signature()  # noqa: E501
+        # model = clerk_client.models.web3_signature.Web3Signature()  # noqa: E501
         pass
 
 

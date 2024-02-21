@@ -1,4 +1,4 @@
-# swagger_client.SignUpsApi
+# clerk_client.SignUpsApi
 
 All URIs are relative to *https://api.clerk.com/v1*
 

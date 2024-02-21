@@ -31,7 +31,7 @@ class TestUser(unittest.TestCase):
     def testUser(self):
         """Test User"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.user.User()  # noqa: E501
+        # model = clerk_client.models.user.User()  # noqa: E501
         pass
 
 

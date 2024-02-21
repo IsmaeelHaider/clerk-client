@@ -31,7 +31,7 @@ class TestUserIdVerifyPasswordBody(unittest.TestCase):
     def testUserIdVerifyPasswordBody(self):
         """Test UserIdVerifyPasswordBody"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.user_id_verify_password_body.UserIdVerifyPasswordBody()  # noqa: E501
+        # model = clerk_client.models.user_id_verify_password_body.UserIdVerifyPasswordBody()  # noqa: E501
         pass
 
 

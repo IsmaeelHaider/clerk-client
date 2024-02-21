@@ -1,4 +1,4 @@
-# swagger_client.ActorTokensApi
+# clerk_client.ActorTokensApi
 
 All URIs are relative to *https://api.clerk.com/v1*
 

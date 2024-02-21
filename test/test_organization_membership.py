@@ -31,7 +31,7 @@ class TestOrganizationMembership(unittest.TestCase):
     def testOrganizationMembership(self):
         """Test OrganizationMembership"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.organization_membership.OrganizationMembership()  # noqa: E501
+        # model = clerk_client.models.organization_membership.OrganizationMembership()  # noqa: E501
         pass
 
 

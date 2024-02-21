@@ -1,4 +1,4 @@
-# swagger_client.JWTTemplatesApi
+# clerk_client.JWTTemplatesApi
 
 All URIs are relative to *https://api.clerk.com/v1*
 

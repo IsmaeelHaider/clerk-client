@@ -31,7 +31,7 @@ class TestAllowlistIdentifiersBody(unittest.TestCase):
     def testAllowlistIdentifiersBody(self):
         """Test AllowlistIdentifiersBody"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.allowlist_identifiers_body.AllowlistIdentifiersBody()  # noqa: E501
+        # model = clerk_client.models.allowlist_identifiers_body.AllowlistIdentifiersBody()  # noqa: E501
         pass
 
 

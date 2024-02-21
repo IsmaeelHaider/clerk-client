@@ -1,4 +1,4 @@
-# swagger_client.OrganizationsApi
+# clerk_client.OrganizationsApi
 
 All URIs are relative to *https://api.clerk.com/v1*
 

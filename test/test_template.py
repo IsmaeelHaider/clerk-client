@@ -31,7 +31,7 @@ class TestTemplate(unittest.TestCase):
     def testTemplate(self):
         """Test Template"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.template.Template()  # noqa: E501
+        # model = clerk_client.models.template.Template()  # noqa: E501
         pass
 
 

@@ -1,4 +1,4 @@
-# swagger_client.ProxyChecksApi
+# clerk_client.ProxyChecksApi
 
 All URIs are relative to *https://api.clerk.com/v1*
 

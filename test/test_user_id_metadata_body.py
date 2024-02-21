@@ -31,7 +31,7 @@ class TestUserIdMetadataBody(unittest.TestCase):
     def testUserIdMetadataBody(self):
         """Test UserIdMetadataBody"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.user_id_metadata_body.UserIdMetadataBody()  # noqa: E501
+        # model = clerk_client.models.user_id_metadata_body.UserIdMetadataBody()  # noqa: E501
         pass
 
 

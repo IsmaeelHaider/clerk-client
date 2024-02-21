@@ -1,4 +1,4 @@
-# swagger_client.OAuthApplicationsApi
+# clerk_client.OAuthApplicationsApi
 
 All URIs are relative to *https://api.clerk.com/v1*
 

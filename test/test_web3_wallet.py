@@ -31,7 +31,7 @@ class TestWeb3Wallet(unittest.TestCase):
     def testWeb3Wallet(self):
         """Test Web3Wallet"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.web3_wallet.Web3Wallet()  # noqa: E501
+        # model = clerk_client.models.web3_wallet.Web3Wallet()  # noqa: E501
         pass
 
 

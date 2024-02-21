@@ -1,4 +1,4 @@
-# swagger_client.AllowListBlockListApi
+# clerk_client.AllowListBlockListApi
 
 All URIs are relative to *https://api.clerk.com/v1*
 

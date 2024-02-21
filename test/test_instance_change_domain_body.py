@@ -31,7 +31,7 @@ class TestInstanceChangeDomainBody(unittest.TestCase):
     def testInstanceChangeDomainBody(self):
         """Test InstanceChangeDomainBody"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.instance_change_domain_body.InstanceChangeDomainBody()  # noqa: E501
+        # model = clerk_client.models.instance_change_domain_body.InstanceChangeDomainBody()  # noqa: E501
         pass
 
 

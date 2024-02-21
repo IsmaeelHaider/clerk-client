@@ -31,7 +31,7 @@ class TestOneOfSAMLAccountVerification(unittest.TestCase):
     def testOneOfSAMLAccountVerification(self):
         """Test OneOfSAMLAccountVerification"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.one_of_saml_account_verification.OneOfSAMLAccountVerification()  # noqa: E501
+        # model = clerk_client.models.one_of_saml_account_verification.OneOfSAMLAccountVerification()  # noqa: E501
         pass
 
 

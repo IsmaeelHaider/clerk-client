@@ -31,7 +31,7 @@ class TestBetaFeaturesInstanceSettingsBody(unittest.TestCase):
     def testBetaFeaturesInstanceSettingsBody(self):
         """Test BetaFeaturesInstanceSettingsBody"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.beta_features_instance_settings_body.BetaFeaturesInstanceSettingsBody()  # noqa: E501
+        # model = clerk_client.models.beta_features_instance_settings_body.BetaFeaturesInstanceSettingsBody()  # noqa: E501
         pass
 
 

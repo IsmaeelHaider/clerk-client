@@ -12,7 +12,7 @@
 
 from setuptools import setup, find_packages  # noqa: H301
 
-NAME = "swagger-client"
+NAME = "clerk-client"
 VERSION = "1.0.0"
 # To install the library, run the following
 #
@@ -29,7 +29,7 @@ setup(
     description="Clerk Backend API",
     author_email="support@clerk.com",
     url="",
-    keywords=["Swagger", "Clerk Backend API"],
+    keywords=["clerk", "Clerk Backend API"],
     install_requires=REQUIRES,
     packages=find_packages(),
     include_package_data=True,

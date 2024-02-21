@@ -31,7 +31,7 @@ class TestOrganizationWithLogo(unittest.TestCase):
     def testOrganizationWithLogo(self):
         """Test OrganizationWithLogo"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.organization_with_logo.OrganizationWithLogo()  # noqa: E501
+        # model = clerk_client.models.organization_with_logo.OrganizationWithLogo()  # noqa: E501
         pass
 
 

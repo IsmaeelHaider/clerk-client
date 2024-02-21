@@ -31,7 +31,7 @@ class TestInstanceRestrictions(unittest.TestCase):
     def testInstanceRestrictions(self):
         """Test InstanceRestrictions"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.instance_restrictions.InstanceRestrictions()  # noqa: E501
+        # model = clerk_client.models.instance_restrictions.InstanceRestrictions()  # noqa: E501
         pass
 
 

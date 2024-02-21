@@ -31,7 +31,7 @@ class TestInvitationIdRevokeBody(unittest.TestCase):
     def testInvitationIdRevokeBody(self):
         """Test InvitationIdRevokeBody"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.invitation_id_revoke_body.InvitationIdRevokeBody()  # noqa: E501
+        # model = clerk_client.models.invitation_id_revoke_body.InvitationIdRevokeBody()  # noqa: E501
         pass
 
 

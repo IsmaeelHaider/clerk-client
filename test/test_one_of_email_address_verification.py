@@ -31,7 +31,7 @@ class TestOneOfEmailAddressVerification(unittest.TestCase):
     def testOneOfEmailAddressVerification(self):
         """Test OneOfEmailAddressVerification"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.one_of_email_address_verification.OneOfEmailAddressVerification()  # noqa: E501
+        # model = clerk_client.models.one_of_email_address_verification.OneOfEmailAddressVerification()  # noqa: E501
         pass
 
 

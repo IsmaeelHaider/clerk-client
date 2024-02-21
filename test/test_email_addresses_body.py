@@ -31,7 +31,7 @@ class TestEmailAddressesBody(unittest.TestCase):
     def testEmailAddressesBody(self):
         """Test EmailAddressesBody"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.email_addresses_body.EmailAddressesBody()  # noqa: E501
+        # model = clerk_client.models.email_addresses_body.EmailAddressesBody()  # noqa: E501
         pass
 
 

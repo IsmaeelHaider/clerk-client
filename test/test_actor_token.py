@@ -31,7 +31,7 @@ class TestActorToken(unittest.TestCase):
     def testActorToken(self):
         """Test ActorToken"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.actor_token.ActorToken()  # noqa: E501
+        # model = clerk_client.models.actor_token.ActorToken()  # noqa: E501
         pass
 
 

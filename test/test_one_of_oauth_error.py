@@ -31,7 +31,7 @@ class TestOneOfOauthError(unittest.TestCase):
     def testOneOfOauthError(self):
         """Test OneOfOauthError"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.one_of_oauth_error.OneOfOauthError()  # noqa: E501
+        # model = clerk_client.models.one_of_oauth_error.OneOfOauthError()  # noqa: E501
         pass
 
 

@@ -31,7 +31,7 @@ class TestClientsVerifyBody(unittest.TestCase):
     def testClientsVerifyBody(self):
         """Test ClientsVerifyBody"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.clients_verify_body.ClientsVerifyBody()  # noqa: E501
+        # model = clerk_client.models.clients_verify_body.ClientsVerifyBody()  # noqa: E501
         pass
 
 

@@ -1,4 +1,4 @@
-# swagger_client.RedirectURLsApi
+# clerk_client.RedirectURLsApi
 
 All URIs are relative to *https://api.clerk.com/v1*
 

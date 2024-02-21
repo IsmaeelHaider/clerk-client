@@ -31,7 +31,7 @@ class TestTotalCount(unittest.TestCase):
     def testTotalCount(self):
         """Test TotalCount"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.total_count.TotalCount()  # noqa: E501
+        # model = clerk_client.models.total_count.TotalCount()  # noqa: E501
         pass
 
 

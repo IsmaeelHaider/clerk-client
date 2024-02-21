@@ -31,7 +31,7 @@ class TestOneOfPhoneNumberVerification(unittest.TestCase):
     def testOneOfPhoneNumberVerification(self):
         """Test OneOfPhoneNumberVerification"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.one_of_phone_number_verification.OneOfPhoneNumberVerification()  # noqa: E501
+        # model = clerk_client.models.one_of_phone_number_verification.OneOfPhoneNumberVerification()  # noqa: E501
         pass
 
 

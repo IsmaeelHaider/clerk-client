@@ -31,7 +31,7 @@ class TestUserIdProfileImageBody(unittest.TestCase):
     def testUserIdProfileImageBody(self):
         """Test UserIdProfileImageBody"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.user_id_profile_image_body.UserIdProfileImageBody()  # noqa: E501
+        # model = clerk_client.models.user_id_profile_image_body.UserIdProfileImageBody()  # noqa: E501
         pass
 
 

@@ -31,7 +31,7 @@ class TestOAuthApplicationWithSecret(unittest.TestCase):
     def testOAuthApplicationWithSecret(self):
         """Test OAuthApplicationWithSecret"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.o_auth_application_with_secret.OAuthApplicationWithSecret()  # noqa: E501
+        # model = clerk_client.models.o_auth_application_with_secret.OAuthApplicationWithSecret()  # noqa: E501
         pass
 
 

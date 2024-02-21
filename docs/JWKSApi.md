@@ -1,4 +1,4 @@
-# swagger_client.JWKSApi
+# clerk_client.JWKSApi
 
 All URIs are relative to *https://api.clerk.com/v1*
 

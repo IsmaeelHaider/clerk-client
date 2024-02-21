@@ -1,4 +1,4 @@
-# swagger_client.BetaFeaturesApi
+# clerk_client.BetaFeaturesApi
 
 All URIs are relative to *https://api.clerk.com/v1*
 

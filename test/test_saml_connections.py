@@ -31,7 +31,7 @@ class TestSAMLConnections(unittest.TestCase):
     def testSAMLConnections(self):
         """Test SAMLConnections"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.saml_connections.SAMLConnections()  # noqa: E501
+        # model = clerk_client.models.saml_connections.SAMLConnections()  # noqa: E501
         pass
 
 

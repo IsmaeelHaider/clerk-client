@@ -31,7 +31,7 @@ class TestInlineResponse2003(unittest.TestCase):
     def testInlineResponse2003(self):
         """Test InlineResponse2003"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.inline_response2003.InlineResponse2003()  # noqa: E501
+        # model = clerk_client.models.inline_response2003.InlineResponse2003()  # noqa: E501
         pass
 
 

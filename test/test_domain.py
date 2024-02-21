@@ -31,7 +31,7 @@ class TestDomain(unittest.TestCase):
     def testDomain(self):
         """Test Domain"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.domain.Domain()  # noqa: E501
+        # model = clerk_client.models.domain.Domain()  # noqa: E501
         pass
 
 

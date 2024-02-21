@@ -31,7 +31,7 @@ class TestSessionIdVerifyBody(unittest.TestCase):
     def testSessionIdVerifyBody(self):
         """Test SessionIdVerifyBody"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.session_id_verify_body.SessionIdVerifyBody()  # noqa: E501
+        # model = clerk_client.models.session_id_verify_body.SessionIdVerifyBody()  # noqa: E501
         pass
 
 

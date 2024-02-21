@@ -31,7 +31,7 @@ class TestRedirectUrlsBody(unittest.TestCase):
     def testRedirectUrlsBody(self):
         """Test RedirectUrlsBody"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.redirect_urls_body.RedirectUrlsBody()  # noqa: E501
+        # model = clerk_client.models.redirect_urls_body.RedirectUrlsBody()  # noqa: E501
         pass
 
 

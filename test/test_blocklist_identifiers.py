@@ -31,7 +31,7 @@ class TestBlocklistIdentifiers(unittest.TestCase):
     def testBlocklistIdentifiers(self):
         """Test BlocklistIdentifiers"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.blocklist_identifiers.BlocklistIdentifiers()  # noqa: E501
+        # model = clerk_client.models.blocklist_identifiers.BlocklistIdentifiers()  # noqa: E501
         pass
 
 

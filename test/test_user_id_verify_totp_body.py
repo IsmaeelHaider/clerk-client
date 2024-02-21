@@ -31,7 +31,7 @@ class TestUserIdVerifyTotpBody(unittest.TestCase):
     def testUserIdVerifyTotpBody(self):
         """Test UserIdVerifyTotpBody"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.user_id_verify_totp_body.UserIdVerifyTotpBody()  # noqa: E501
+        # model = clerk_client.models.user_id_verify_totp_body.UserIdVerifyTotpBody()  # noqa: E501
         pass
 
 

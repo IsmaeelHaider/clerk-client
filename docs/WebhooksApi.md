@@ -1,4 +1,4 @@
-# swagger_client.WebhooksApi
+# clerk_client.WebhooksApi
 
 All URIs are relative to *https://api.clerk.com/v1*
 

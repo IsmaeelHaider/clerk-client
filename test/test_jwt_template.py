@@ -31,7 +31,7 @@ class TestJWTTemplate(unittest.TestCase):
     def testJWTTemplate(self):
         """Test JWTTemplate"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = swagger_client.models.jwt_template.JWTTemplate()  # noqa: E501
+        # model = clerk_client.models.jwt_template.JWTTemplate()  # noqa: E501
         pass
 
 
